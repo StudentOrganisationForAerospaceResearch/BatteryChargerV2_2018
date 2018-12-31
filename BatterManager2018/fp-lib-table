@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name BMS)(type KiCad)(uri ${KIPRJMOD}/BMS.pretty)(options "")(descr ""))
+)
